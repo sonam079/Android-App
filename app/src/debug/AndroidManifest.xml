@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sonam.mapsdemo">
+
+    <application>
+        <activity android:name="com.example.sonam.mapsdemo.CustomerLoginOrRegister"></activity>
+    </application>
+</manifest>
